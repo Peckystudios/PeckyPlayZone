@@ -1,7 +1,7 @@
 ---
 title: "8個開始子彈筆記的心法"
 date: 2021-05-31T18:16:02+08:00
-draft: true
+draft: false
 ---
 
 
