@@ -2,8 +2,8 @@
 ---
 title: 角色設計Guidebook裡如何呈現角色全貌？（三視圖/Three‑View Drawing/Turn Around）
 description: 
-date: 2020-09-09
-slug: characterdesign
+date: 2021-05-15
+slug: whycharacterdesignthreeviewturnaround
 image: d80739f9b4317f75abf5c7e89015293c.png
 categories:
     - 角色設計
