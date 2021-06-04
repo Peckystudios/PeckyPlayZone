@@ -1,0 +1,18 @@
+---
+title: Digital Garden
+description: 我的數位花園，放置碎片化的想法和觀察。
+date: '2021-06-04'
+aliases:
+  - 數位花園
+  - digitalgarden
+
+license: 
+lastmod: '2021-06-04'
+draft: false
+comments: true
+menu:
+    main: 
+        
+        weight: -10
+        pre: seed
+---
