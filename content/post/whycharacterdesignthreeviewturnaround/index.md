@@ -17,7 +17,7 @@ tags:
 
 
 
-![](/blog/whycharacterdesignthreeviewturnaround/image.png)
+![](image.png)
 http://www.simplearttips.com/tutorials-blog/turnaround-sheet
 
 我們在看各種動畫或遊戲角色設計設定稿或Guidebook的時候一定會看到一種圖是畫出角色各個不同角度的樣子。
@@ -31,16 +31,16 @@ http://www.simplearttips.com/tutorials-blog/turnaround-sheet
 
 像最早我學習3D動畫的時候就是直接教3D動畫專用的三視圖，因3D動畫在建模時需要看到完全正面、完全側面和完全背面（沒有透視時的造型），讓建模師比較好建模，且要畫成T POSE的樣子（如圖），因為3D角色製作流程中有一個環節是骨骼綁定（Rigging），做成T POSE會讓這個環節出來的動畫效果更好。
 
-![](/blog/whycharacterdesignthreeviewturnaround/d80739f9b4317f75abf5c7e89015293c.png)
+![](d80739f9b4317f75abf5c7e89015293c.png)
 https://dribbble.com/shots/13169495-Training-Service-Illustration/attachments/4771729?mode=media
 
 
 而如果是2D動畫，依據不同風格，有些只會畫正面、側面和背面，呈現角色的基本站姿與身上有什麼物件，不會像3D動畫那樣畫成T POSE。（就我在網路上搜尋，這種圖叫Model sheet，只是我不曾實際接觸過動漫和傳統2D動畫業界，不敢肯定他們慣用的名字是什麼。）
-![](/blog/whycharacterdesignthreeviewturnaround/image%202.png)
+![](image2.png)
 https://line.17qq.com/articles/kngpqwky_p5.html
 
 有些2D作品風格如果比較立體，或是原設計者很要求細節的話，就會把各個角度的細節畫一整圈，所以會叫Turn Around。
-![](/blog/whycharacterdesignthreeviewturnaround/image%203.png)
+![](image3.png)
 
 通常會有這樣的差異是因為各公司或創作者有自己的習慣與流程，如果今天換成是你要來創作的話，就需要思考自己設計的呈現方式有沒有符合且足夠的表達自己想要的設計，而其他一起參與的人能不能理解這張圖。
 
