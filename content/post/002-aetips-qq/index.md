@@ -1,0 +1,82 @@
+---
+title: '【AE小技巧】軟Q果凍效果'
+date: Sun, 06 Oct 2019 17:54:32 +0000
+slug: aetips-qq
+image: aftereffectstips-QQ.png
+categories:
+    - AfterEffects技巧
+draft: false
+tags: 
+    - AE
+    - AfterEffects
+    - motiondesign
+    - tips
+    - 動態設計
+---
+
+這次也是一個小小小技巧，但我在現在的公司超常用的XD  
+想讓動畫更豐富，教學一定要仔細看喔！
+
+**困擾點：**
+
+。素材只有點陣圖片，無法做向量的變化  
+。工作時程的時間太少，但又不想畫面太乾，想要快速製作有效果的動態
+
+這時，就是果凍效果出場的時候啦！  
+真的也是超級簡單的！
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/螢幕快照-2019-10-07-上午1.07.15-1024x710.png)
+
+首先，還是一樣來模擬一下製作情境！  
+這次置入的是一個透明背景的角色。(我直接使用有圖層的psd檔置入，和一般透明png作法是一樣的！）  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/A5B68CAA-D692-4632-8B52-AF8F89A2394D-1024x718.png)
+
+第一步，我的習慣是一定要調整中心點（牽涉到角色的一些原則，未來再提），點選紅色框圖標。  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/43241984-18C7-4117-B120-A8AA1B4EF659.png)
+
+將中心點移到角色腰的位置。  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/ADD02D5F-F201-4CEA-B16E-794BAABF25B8-1024x707.png)
+
+要開始key囉！接下來找到角色圖層的scale,將這個果凍效果的前後各key一個原本的scale數值  
+。這邊是24是因為我圖本身有縮放過，若素材與comp處於剛剛好的話，一般會是100/100  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/D4A7B143-7CAB-43DE-8CA9-A064D84EED49-1024x701.png)
+
+取消scale x和y之間的連結關係。（x:我們分手吧～ y:QAQ）
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/1AE9F737-4D74-464A-A957-6AA65B71CC4C-1024x709.png)
+
+在先前設key的前後兩個key中間抓約1/4的地方，3/4的地方，分別設定成一個變扁，一個變長的key。  
+示範使用的數值分別是(25,23)，(23，25)  
+若你剛剛原始數值是(100,100)，我平常習慣是使用95，105這個搭配  
+可以依據各個狀況去調整～  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/aaa.gif)
+
+現在來看看效果，似乎太慢了！  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/46F15FFB-FB8B-418A-95BB-1CFB70CE4718.png)
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/488024AC-3A36-42CF-AC36-76ADE9889BC1.png)
+
+回來看key，把key全部選起來，按著alt，左鍵按著最後面的key,把整個key等比例縮小到適當時間上。  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/C340D236-8F98-4460-AD5C-C507BE480FF1.png)
+
+F9加上easy ease  
+讓效果更順  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/sss.gif)
+
+最後就會變成這樣。  
+很簡單吧，目前這樣還是最簡單的，  
+這個還有很多組合技法，大家可以玩玩看。  
+未來有看到什麼再跟大家分享！
+
+如果喜歡我的分享，請幫忙按一下下面的Google廣告以支持我～  
+會讓我更有動力繼續往下寫喔！留言支持與討論我也會很開心的！
+
+(adsbygoogle = window.adsbygoogle || \[\]).push({});

@@ -1,0 +1,161 @@
+---
+title: '【AE小技巧】影片loop做法/省圖層技巧（stock footage/time remapping）'
+date: Sat, 12 Oct 2019 12:15:02 +0000
+draft: false
+slug: aetips-loop
+image: 276008ED-5B7C-487C-9BE3-946729929E76.png
+categories:
+    - AfterEffects技巧
+tags: 
+    - AfterEffects
+    - cycle
+    - loop
+    - motiondesign
+    - tips
+    - 動態設計
+    - 循環動畫
+---
+
+又要來分享After effects超級實用的技巧：Loop（我有時候會稱呼他為cycle）
+
+如果你是在做演唱會影像或是UI動態設計的，這次的教學一定要仔細學起來喔！
+
+最早這個技巧也是前同事教我的，很感謝 :)  
+這邊來回饋AE和動畫影像圈！
+
+不管你今天是做AE動態或是其他3D軟體，  
+製作Loop的大原則是：
+
+_**第一張和最後一張要可以接起來（新手可以記成第一張和最後一張一樣）**_
+
+這邊還是先以AE較常見且常用的來分享
+
+**困擾點：  
+**。下載或是購買了影片素材，例如水滴、雲海、煙幕的footage，影片本身沒有loop。要在演唱會使用，需要讓他持續播放，該怎麼製作呢？  
+。有了loop素材，但每次使用都要複製好多層，有沒有什麼方法可以更精簡呢？
+
+因為這邊是AE小技巧，所以都用AE來說明，  
+以下說明會分2部分：
+
+1.如何將stock footage製作成可以loop的素材？  
+2.如何使用AE內建表達式來讓素材只使用一個圖層即可loop？
+
+* * *
+
+首先第一點，我上網找了預覽用的影片檔來示範（[Clouds by AndreiLeontev | VideoHive](https://videohive.net/item/clouds/24544960)）  
+如果要商用，記得要購買喔！
+
+大家可以觀察一下，  
+很明顯的，影片的第一張和最後一張不一樣，與loop原則不符合，  
+導致無法連續播放。
+
+那現在我們要如何將這種影片改成可以loop的形式呢？  
+很簡單，我們只要創造一個頭尾可以接起來的影片即可，以下進入AE。
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/276008ED-5B7C-487C-9BE3-946729929E76-1024x669.png)
+
+把影片放進AE，這邊就不多說了XD
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/D4742F0E-1B0D-4E39-99F3-670FC5DFDEE0-1024x666.png)
+
+隨意找一個適當的時機點，切開影片。
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/12F08F5D-ACD7-4E2A-87C5-D8703A554A23-1024x669.png)
+
+將剛剛切開之後，位於後面的片段移到前面，前面的片段移到後面。  
+大家現在可以播放看看，是不是影片第一張和最後一張是一樣的？
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/2019-10-12-15.51.23-1024x669.gif)
+
+我想大家馬上就會發現中間會不順的問題了XD  
+現在就要來處理這個問題！
+
+這邊示範常見的做法：淡入淡出  
+大家也可以依照情形去變化這邊的做法喔，原則是一樣的。
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/AB1EF71C-4174-4206-99A5-804CE5EB646F-1024x669.png)
+
+先將2個片段重疊
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/CF2ED65B-B4B4-4E76-9F26-CEC102C12179-1024x666.png)
+
+將2段的透明度一個設定100>0，一個設定0>100
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/2019-10-12-15.59.00-1024x650.gif)
+
+看看效果  
+大家可能會覺得說這也不是很完美的loop啊？  
+但就如同前面所說，請依照各個需求去調整這中間段差要怎麼接比較順。  
+我也有碰過演唱會影像用這種簡單的方式就ok了。  
+希望大家依照一樣的原則去變換使用的方法。
+
+* * *
+
+有了一段loop素材之後，  
+如果想要讓他在AE裡面是最簡便的狀態要怎麼做呢？
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/1CED441D-99F0-4BF4-B3FD-092B5EF65C91-1024x670.png)
+
+一樣先模擬一下製作情境，  
+在一個很長的comp裡放入剛剛製作好的影片loop
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/4FD042E7-9BE2-4A93-A032-8D91F8051EB8-1024x665.png)
+
+在圖層上按右鍵>time>enable time remapping  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/3E25909F-1A0C-427A-8CC8-5BCFA1B64FBA.png)
+
+你會注意到圖層的狀態改變了  
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/205D9EDE-87BB-465E-8AFF-4BF1A975E440-1024x668.png)
+
+現在可以自由的把圖層拉長或拉短
+
+> 。簡單說明一下time remapping的作用：開啓之後，這個圖層的長短即可自由拉伸，而播放內容則由key來控制。數值會依據紅色方框來顯示，都是代表播放到第幾格的意思。
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/184BEE96-3310-41CD-B332-8CDDC6B24D31-1024x366.png)
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/999A40A3-B0D1-484B-B262-A1B40C9AEF7D-1024x280.png)
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/51E0420B-B9C2-4A07-A9FC-3BD858BB5575-1024x668.png)
+
+拉到剛剛time remapping完  
+預設最後面的key的前一格
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/D2781498-F458-4C1D-A39F-CC229B6DB04C-1024x189.png)
+
+設key
+
+> 為什麼要這樣做？  
+> 剛剛前面沒特別提是怕大家困惑，今天如果我們做第一張和最後一張長一樣的話，直接將這個素材連續播放，會產生每個循環都多一格的狀況，導致畫面卡卡的。所以為了避免這樣的問題，我們會將loop素材的最後一格拿掉，讓loop是順暢的。
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/FEDB3270-6218-4454-A8B1-7BFE686B4BFB-1024x814.png)
+
+> ⭐️️前面介紹的影片loop反而不需要做少一格的動作，大家可以想想為什麼喔！
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/C52CFBD7-80E3-4D24-BFED-5298EDF3E4A7-1024x217.png)
+
+最後面的key記得拿掉
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/45DEFC66-1A65-4FB5-8736-B559D5FB43CC-1024x673.png)
+
+要上表達式囉！  
+在parent的這個符號按下alt+左鍵
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/A298AA5C-D262-43BA-A751-48E4585773D4-1024x734.png)
+
+依序點擊
+
+![](http://peckyhsieh.com/wp-content/uploads/2019/10/2019-10-12-21.11.15-1024x869.gif)
+
+看看效果  
+這樣就完成啦！  
+後面可以無限制的拉長喔！  
+對於想省圖層的狀況真的非常方便！
+
+之後再來分享一下直接用AE做的動畫loop專案和技巧，  
+這次先到這邊啦！
+
+如果有什麼問題也歡迎留言，  
+或是留言喇賽給我一點鼓勵，  
+謝謝！
