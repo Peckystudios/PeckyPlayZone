@@ -4,3 +4,6 @@
 
 [build.environment]
   HUGO_VERSION = "v0.83.1"
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
