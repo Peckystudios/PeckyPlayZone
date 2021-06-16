@@ -37,8 +37,7 @@ I'm Pecky. I enjoy its form as it’s boundless and pure. No rules can define it
 ![](img/icons/icons8-instagram-30.png) [Instagram](https://www.instagram.com/pecky_abc/)
 ![](img/icons/icons8-youtube-30.png) [Youtube](https://www.youtube.com/channel/UCGMV7zN-Y5tlgFYMHFREDtg)
 ![](img/icons/icons8-online-store-30.png)[Store](https://www.rakuten.com.tw/shop/peckystudio/)
-
-
+![](img/icons/icons8-design-30.png)[服務項目](https://peckyhsieh.wixsite.com/peckystudiosservice)
 
 
 
