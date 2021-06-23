@@ -3,6 +3,7 @@ title: '寶可夢 劍/盾 遊戲心得 / IP世界觀發展分析'
 date: Sat, 28 Mar 2020 16:30:04 +0000
 draft: false
 slug: pokemonss-review-ipanalysis
+description: 我買的是寶可夢盾，單純是覺得幽靈系的道館主很可愛而選。  已經是超過20年的寶可夢粉，我甚至還記得第一次看寶可夢動畫是在我幼稚園的一個空間，老師投影第一集給大家看。一路上寶可夢伴隨著我長大，近期看著他快速成長真的很感動。  這篇文章會以我的觀點來寫出我觀察到的事。
 image: pokemonss-review-ipanalysis.png
 tags: 
     - IP策略
@@ -13,13 +14,13 @@ tags:
 前言
 ==
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-36-1024x576.png)
+![](image-36-1024x576.png)
 
 （最後一戰前截圖的）
 
 **本篇微劇透，往下看請注意**
 
-之前說要寫[冒險日誌](https://peckyhsieh.com/265/pokemon-shield-diary-day1/)，結果默默的就把他玩完了😂
+之前說要寫[冒險日誌](https://peckystudios.com/p/pokemon-shield-diary-day1/)，結果默默的就把他玩完了😂
 
 [![](https://d.ecimg.tw/items/DGBJBH1900AFJDK/000001_1578976007.jpg)](https://ibestfun.net/2egLl)
 
@@ -32,7 +33,7 @@ tags:
 第一印象
 ====
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-37-1024x576.png)
+![](image-37-1024x576.png)
 
 （前面沒截到圖，拿後面的畫面示意XD）
 
@@ -59,7 +60,7 @@ tags:
 野生寶可夢出現方式
 ---------
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-38-1024x576.png)
+![](image-38-1024x576.png)
 
 這個應該在很多預告都有出現了，寶可夢可以在地圖模式直接被看到。我覺得這個可能才是製作團隊一直以來想呈現的方式，才可以比較像是寶可夢的初衷——在後山抓蟲的體驗。
 
@@ -70,13 +71,13 @@ tags:
 
 在這次的遊戲裡發現[Game Freak](https://zh.wikipedia.org/zh-tw/Game_Freak)花了很多心力新增了可以增加角色表演的空間，像是道館主會在特定的時間可以有一段角色表演，時間可能是我方攻擊對方擊中要害，或是對方攻擊我們效果很好，因為這個是在發生之後才會出現的回饋，真的增加很多體驗的臨場感，又可以看到角色的反應，就像真的在和對方對戰一樣。
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-39-1024x576.png)
+![](image-39-1024x576.png)
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-40-1024x576.png)
+![](image-40-1024x576.png)
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-41-1024x576.png)
+![](image-41-1024x576.png)
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-42-1024x576.png)
+![](image-42-1024x576.png)
 
 撿道具方式
 -----
@@ -100,7 +101,7 @@ tags:
 
 這次的解謎關卡我都蠻樂在其中的，雖然不會難，比較有印象的就是會轉轉轉的幽靈系道館、冰系要偵測地板的道館和邪惡系破舊的道館，最後到龍系的道館時，他反而為了呈現角色與故事而沒有特別設計大型關卡，可以說是收放自如，不會硬塞不搭配的東西。
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-43-1024x576.png)
+![](image-43-1024x576.png)
 
 內容方面
 ====
@@ -108,7 +109,7 @@ tags:
 文字
 --
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-44-1024x576.png)
+![](image-44-1024x576.png)
 
 之前[那篇日誌文](https://peckyhsieh.com/265/pokemon-shield-diary-day1/)也有提到，本作突然大量新增文字的出現，過去都是用模糊處理的方式去呈現，這次彷彿不怕被驗證般到處出現，像車站、時尚商店、餐廳等等地方。
 
@@ -121,7 +122,7 @@ tags:
 場景
 --
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-45-1024x576.png)
+![](image-45-1024x576.png)
 
 看到這次的場景真的很感人，畢竟我是從幾乎最舊版的玩到現在，究竟進步多少可謂是非常有感。從大家都說是幼稚的遊戲，到現在的規模，再也沒有人再繼續說寶可夢幼稚了！！
 
@@ -134,7 +135,7 @@ tags:
 曠野地帶
 ----
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-46-1024x576.png)
+![](image-46-1024x576.png)
 
 「啊！是薩爾達！」大概是我進這地區第一個想法XDD
 
@@ -164,9 +165,9 @@ tags:
 
 其實這樣的故事才是人生啊，雖然過去非黑即白的故事會讓故事張力非常明顯，但要有共鳴還是要讓故事更像是人生。
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-47-1024x576.png)
+![](image-47-1024x576.png)
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-48-1024x576.png)
+![](image-48-1024x576.png)
 
 這樣的描寫方式其實已經是趨勢了，近年來台灣的電視劇[《我們與惡的距離》](https://zh.wikipedia.org/zh-tw/%E6%88%91%E5%80%91%E8%88%87%E6%83%A1%E7%9A%84%E8%B7%9D%E9%9B%A2)、甚至好萊塢很多電影都有慢慢加入用不同角度去看事情，去呈現這個世界的複雜樣貌，也是在教育閱聽眾這個世界不是非黑即白的，也許一個人他的一個行為在你那個當下那個角度來看是大錯特錯，但以他的角度來看也許那才是最對的選擇，這個世界沒有絕對的對錯之分。
 
@@ -174,7 +175,7 @@ tags:
 
 寶可夢系列從[《寶可夢 黑/白版》](https://wiki.52poke.com/wiki/%E5%AF%B6%E5%8F%AF%E5%A4%A2_%E9%BB%91%EF%BC%8F%E7%99%BD)其實就有開始嘗試去增加故事的深度。在這個作品裡他們嘗試去描寫了一個角色「[N](https://wiki.52poke.com/wiki/%EF%BC%AE)」的故事背景，雖然在剛出場時他也是會誘拐寶可夢走的大壞蛋，但玩到最後你會發現他也是一個大騙局的受害者。我很喜歡這個角色！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-49-646x1024.png)
+![](image-49-646x1024.png)
 
 [https://wiki.52poke.com/wiki/File:%EF%BC](https://wiki.52poke.com/wiki/File:%EF%BC%AE_B2W2.png)[%](https://wiki.52poke.com/wiki/File:%EF%BC%AE_B2W2.png)[AE\_B2W2.png](https://wiki.52poke.com/wiki/File:%EF%BC%AE_B2W2.png)
 
@@ -187,11 +188,11 @@ tags:
 
 本作的道館主我就覺得蠻有意思的，有些角色很明顯就是參考外國人設計的，例如：[波普菈](https://wiki.52poke.com/wiki/%E6%B3%A2%E6%99%AE%E8%8F%88)，我馬上想到[佳麗村三姐妹](https://zh.wikipedia.org/wiki/%E4%BD%B3%E9%BA%97%E6%9D%91%E4%B8%89%E5%A7%8A%E5%A6%B9)（動畫）的角色，就連她的道館主題都是夢幻劇場呢！（她的劇情也很好笑哈哈！我很喜歡）；[奇巴納](https://wiki.52poke.com/wiki/%E5%A5%87%E5%B7%B4%E7%B4%8D)，身形明顯是參考外國那種比較高大的人的比例，不只手長腳長，可以觀察一下他的小腿，因為真的腳長，在肌肉線條的描寫上會和矮小的人不同，可以說設計師觀察入圍。
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-50.png)
+![](image-50.png)
 
 https://www.imdb.com/title/tt0286244/
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-51-1024x576.png)
+![](image-51-1024x576.png)
 
 世界觀
 ---
@@ -253,11 +254,4 @@ https://www.imdb.com/title/tt0286244/
 
 變成上班族之後雖然很難再把每一款遊戲好好玩完了，但他在我心目中的地位不會改變，非常期待未來寶可夢能再給我們這些粉絲更多驚喜！
 
-* * *
 
-如果喜歡我的分享，請幫忙按一下下面的Google廣告以支持我～  
-會讓我更有動力繼續往下寫喔！留言支持與討論我也會很開心的。
-
-(adsbygoogle = window.adsbygoogle || \[\]).push({});
-
-* * *

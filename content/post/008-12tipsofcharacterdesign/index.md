@@ -3,6 +3,7 @@ title: '角色設計的12個原則技巧，讓你的角色更生動、吸引人'
 date: Tue, 10 Mar 2020 14:45:06 +0000
 image: binhearthposter-1024x725.png
 slug: 12tipsofcharacterdesign
+description: 12個簡單的技巧，讓我們一起來看看吧！
 draft: false
 categories:
     - 角色設計
@@ -18,7 +19,7 @@ Hi 大家好
 
 從剛開始自學畫畫就一直對於角色很有興趣，大學也在動畫系學習了相關的知識，甚至連畢製都是角色設計最完整XD。  
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/螢幕快照-2020-03-09-下午9.17.10-1024x725.png)
+![](螢幕快照-2020-03-09-下午9.17.10-1024x725.png)
 
 我的黑歷史
 
@@ -53,11 +54,11 @@ Hi 大家好
 
 輕小說主角（例如No Game No Life的主角）常常設定為不喜歡社交，對於社會生活比較吃力等等，也是為了能讓御宅族有共鳴才如此（雖然我個人不是很喜歡一直使用這樣的手法，明明喜歡輕小說的人還是有很多種的！）  
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/img_tv_thum02_191115.jpg)
+![](img_tv_thum02_191115.jpg)
 
 [テレビアニメ | ポケットモンスターオフィシャルサイト](https://www.pokemon.co.jp/anime/tv/)
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/No_Game_No_Life_Vol.1.jpg)
+![](No_Game_No_Life_Vol.1.jpg)
 
 [NO GAME NO LIFE 遊戲人生 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/NO_GAME_NO_LIFE_%E9%81%8A%E6%88%B2%E4%BA%BA%E7%94%9F)
 
@@ -77,11 +78,11 @@ _**熱血、勇氣、努力**_
 3\. 辨識度高的剪影
 -----------
 
-在我前面寫的[【角色設計】角色剪影的重要性/如何快速增強角色辨識度！ | Pecky 遊樂間](https://peckyhsieh.com/389/characterdesign-silhouette/)這篇也有提到，剪影是非常重要的元素。
+剪影是非常重要的元素。
 
 建議新手可以找出各國知名角色的圖回來，把他們都畫成黑色的剪影，再將自己的角色與其他角色的剪影放在一起對照，就可以馬上看出自己的角色辨識度夠不夠高了！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/Silohuette-1024x530.jpg)
+![](Silohuette-1024x530.jpg)
 
 [Character Design | Silhouettes](https://characterdesignreferences.com/visual-library-2/character-design-silhouette)
 
@@ -93,12 +94,12 @@ _**熱血、勇氣、努力**_
 
 至於該怎麼決定哪邊要大哪邊要小，就是回到前面第一點，思考自己的目標客群是誰，要帶給這些人什麼樣的感受，再回來設計。
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/9781624650345-5.jpg)
+![](9781624650345-5.jpg)
 
 本圖來自The Silver Way這本書  
 [The Silver Way, Techniques, Tips, and Tutorials for Effective Character Design by Stephen Silver | 9781624650345 | Booktopia](https://www.booktopia.com.au/the-silver-way-stephen-silver/book/9781624650345.html)
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/getImage.jpg)
+![](getImage.jpg)
 
 [台灣哪裡買到這本書：The Silver Way](https://greenmall.info/2eTfl?uid1=silver&uid2=10skill)
 
@@ -113,7 +114,7 @@ _**熱血、勇氣、努力**_
 
 顏色其實是非常有趣的，會很推薦大家可以學習顏色的基礎規則，學會規則再嘗試打破他！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/getImage-2.jpg)
+![](getImage-2.jpg)
 
 [圖解設計師的色彩法則：好的色彩布局是這樣構思的，95項你需要瞭解的事！](https://iorange.biz/2eTmC?uid1=color)  
 
@@ -132,7 +133,7 @@ _**熱血、勇氣、努力**_
 *   感到害怕與擔憂的時候，他會是畏縮成一小角的狀態  
     
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/P04_002-1024x511.jpg)
+![](P04_002-1024x511.jpg)
 
 我覺得很有趣的一點是，這個和Ted演講：Amy Cuddy: 姿勢決定你是誰!  
 裡面提到的東西不謀而合
@@ -142,7 +143,7 @@ https://www.ted.com/talks/amy\_cuddy\_your\_body\_language\_may\_shape\_who\_you
 所以說角色設計師不可以只學習角色設計而已喔～  
 多多涉獵其他知識也是很重要的！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/getImage-3.jpg)
+![](getImage-3.jpg)
 
 [點我購買](https://igamepark.biz/2eToN?uid1=pose)
 
@@ -155,7 +156,7 @@ https://www.ted.com/talks/amy\_cuddy\_your\_body\_language\_may\_shape\_who\_you
 
 有時候一樣的表情放在不一樣的情境，或是一樣的表情出現的頻率不一樣，展現出來的個性也很不同，非常有趣！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/different-facial-expressions-drawing-6-1024x662.jpg)
+![](different-facial-expressions-drawing-6-1024x662.jpg)
 
 [Different Facial Expressions Drawing at PaintingValley.com | Explore collection of Different Facial Expressions Drawing](https://paintingvalley.com/different-facial-expressions-drawing)
 
@@ -173,7 +174,7 @@ https://www.ted.com/talks/amy\_cuddy\_your\_body\_language\_may\_shape\_who\_you
 適度的使用特徵可以增加觀眾對於你的角色的記憶點！  
 也是一個很常使用的技巧喔！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/豬.jpg)
+![](豬.jpg)
 
 9.身上穿戴的東西需與角色背景有關
 -----------------
@@ -193,7 +194,7 @@ https://www.ted.com/talks/amy\_cuddy\_your\_body\_language\_may\_shape\_who\_you
 所以說光是身上的物品，就可以告訴我們很多事情了！  
 好好探討一下自己角色的衣服配飾吧！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/getImage-4.jpg)
+![](getImage-4.jpg)
 
 [博客來-Coco可可夜總會(1)拼圖300片](https://igrape.net/2eToT?uid1=coco)
 
@@ -227,7 +228,7 @@ _**Find Your Character’s Why!**_
 
 衝突的用處就是激發觀眾對於接下來的發展感到好奇的手法，這是一個幾乎任何商業娛樂媒體都會使用的技巧，務必要好好學起來！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/unnamed.jpg)
+![](unnamed.jpg)
 
 12.把角色當作一個真實的生命
 ---------------

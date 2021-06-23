@@ -1,9 +1,8 @@
-
 ---
 title: 角色設計Guidebook裡如何呈現角色全貌？（三視圖/Three‑View Drawing/Turn Around）
-description: 
 date: 2021-05-15
 slug: whycharacterdesignthreeviewturnaround
+description: 我們在看各種動畫或遊戲角色設計設定稿或Guidebook的時候一定會看到一種圖是畫出角色各個不同角度的樣子。這個圖是做什麼用的呢？
 image: d80739f9b4317f75abf5c7e89015293c.png
 categories:
     - 角色設計

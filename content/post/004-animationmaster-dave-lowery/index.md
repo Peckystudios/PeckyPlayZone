@@ -3,6 +3,7 @@ title: '【講座筆記】好萊塢動畫大師系列-Dave Lowery 講座'
 date: Tue, 15 Oct 2019 15:53:19 +0000
 draft: false
 slug: animationmaster-dave-lowery
+description: 聽 Dave Lowery 演講的記錄。
 image: animationmaster-dave-lowery.jpg
 categories:
     - 學習記錄
@@ -214,7 +215,7 @@ Dave自誇說，disney找上導演時有帶他到他們的故事部門和PIXAR�
 * * *
 
 給我們看了Shrek的storypitch  
-![](http://peckyhsieh.com/wp-content/uploads/2019/10/FullSizeRender-300x182.jpg)  
+![](FullSizeRender.jpg)  
 這些story artist會領到某一段劇情去發展storyboard，然後會在大家面前pitch自己的故事。  
 有些人節奏感很好，還可以直接現場配音，據說薑餅人的聲音就是其中一個story artist配的，因爲配得太好了。
 

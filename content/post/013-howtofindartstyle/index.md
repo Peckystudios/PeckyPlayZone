@@ -3,6 +3,7 @@ title: '美術風格到底怎麼找？我是如何找到屬於自己的美術風
 date: Mon, 12 Apr 2021 09:26:42 +0000
 draft: false
 slug: howtofindartstyle
+description: 「到底自己的美術風格該怎麼找？」這樣的問題幾乎百分之百會出現在插畫家、設計師和所有藝術設計相關的創作者身上。我先分享我自己的經驗。
 image: pexels-craig-adderley-1767016-930x620.jpg
 tags: 
     - 個人成長

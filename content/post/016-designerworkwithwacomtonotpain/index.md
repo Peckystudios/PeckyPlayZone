@@ -4,6 +4,7 @@ date: Sun, 16 May 2021 09:42:57 +0000
 draft: false
 image: image.png
 slug: designerworkwithwacomtonotpain
+description: 使用數位繪圖板時，手臂有不明的痠麻不適疼痛嗎？ 
 tags: 
     - Wacom
     - 個人成長

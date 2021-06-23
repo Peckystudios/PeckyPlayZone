@@ -3,6 +3,7 @@ title: 'MOLOTOW DRIPSTICK ROLLERBALL 滾珠筆/擠壓流湯效果樣樣來！'
 date: Wed, 11 Mar 2020 06:00:00 +0000
 draft: false
 slug: molotow-dripstick-rollerball
+description: 今天想來分享一下我在2019年遇到最有趣的筆 MOLOTOW DRIPSTICK ROLLERBALL 滾珠筆
 image: molotow-dripstick-rollerball.jpg
 tags: 
     - 創作
@@ -14,7 +15,7 @@ tags:
     - 美術
 ---
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/IMG_4635-1024x639.jpg)
+![](IMG_4635-1024x639.jpg)
 
 前言
 --
@@ -28,7 +29,7 @@ HI 大家好
 相遇
 --
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/img38-1024x784.jpg)
+![](img38-1024x784.jpg)
 
 從小就是文具的愛好者，小時候看著[文具病](http://www.stationeria.net/)、[小慶的雜七雜八](https://blog.xuite.net/q10021232/twblog1)等等經營許久的文具部落格長大（我連PTT帳號都是為了文具版辦的呢！），也沾染上了到處找老文具店挖掘老文具的習性。
 
@@ -40,7 +41,7 @@ HI 大家好
 
 我在一個展示台上看到了MOLOTOW滾珠筆，因為我有偷偷打開來看筆頭（喂！），我就發現，哇！這個筆頭根本就是[原子筆](https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%AD%90%E7%AD%86)的放大版！真是太有趣了！我想要帶回家！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/IMG_4681-1024x768.jpg)
+![](IMG_4681-1024x768.jpg)
 
 好奇心驅使，我還是問了店員平常他們塗鴉是怎麼使用的呢？  
 他才跟我介紹了，一般他們在使用的時候，都是在玩他的流湯效果，墨水畫完的話，後面蓋子轉開直接灌入新的墨水即可，相當簡單！
@@ -56,7 +57,7 @@ HI 大家好
 
 除非有限定主題，現在畫圖幾乎是不打草稿的，在那個當下我想到了什麼，或是我直覺想畫什麼，我就會讓他在畫上呈現。畫起來很開心喔～請大家務必嘗試看看！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/img28-770x1024.jpg)
+![](img28-770x1024.jpg)
 
 筆的特性
 ----
@@ -67,11 +68,11 @@ HI 大家好
 
 就如店員說的，為了達到這支筆流湯的效果，筆身是用塑料製成，手是可以擠壓的。我自己都會故意把畫板立起來，一邊畫出線條，一邊在適合的線條或是頓點用力擠，創作出不同的效果。  
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/img40-1024x722.png)
+![](img40-1024x722.png)
 
 ### 墨水可以自己調製與更換
 
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01L06LJ3E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=peckyhsieh-20)](https://www.amazon.com/gp/product/B01L06LJ3E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L06LJ3E&linkCode=as2&tag=peckyhsieh-20&linkId=b1f1053c7e4ca96ac88249202918e61c)![](//ir-na.amazon-adsystem.com/e/ir?t=peckyhsieh-20&l=am2&o=1&a=B01L06LJ3E)  
+
 
 MOLOTOW本身也有出自己的[墨水](https://amzn.to/2VQmNTp)，但真的不便宜…  
 以我的畫法和用量，買原廠的我應該是會破產😂
@@ -80,7 +81,7 @@ MOLOTOW本身也有出自己的[墨水](https://amzn.to/2VQmNTp)，但真的不�
 
 我看他們原廠也有販售壓克力墨水，我就想說那不如我就試著自己調製看看吧！一個奔去文具店，買了一般大家常見的壓克力顏料，自己加水存放在罐子裡，目前使用起來是沒什麼問題的！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/IMG_4636-768x1024.jpg)
+![](IMG_4636-768x1024.jpg)
 
 ### 筆蓋密封性不錯
 
@@ -92,7 +93,7 @@ MOLOTOW本身也有出自己的[墨水](https://amzn.to/2VQmNTp)，但真的不�
 
 後來又要回去忙工作的事情就暫時收起來一陣子，沒想到某天要再拿出來玩的時候，發現滾珠完全被壓克力黏住XDDD，完全解不開。同樣放了很久的MOLOTOW滾珠筆，裡面一樣灌我自己調製的墨水，打開來只有少數壓克力乾涸的痕跡，但稍微畫一下，又是一尾活龍！看來為了畫畫設計的筆桿還是有差的！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/IMG_4640-1024x768.jpg)
+![](IMG_4640-1024x768.jpg)
 
 後記
 --

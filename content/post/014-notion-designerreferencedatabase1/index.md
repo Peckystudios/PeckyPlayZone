@@ -1,8 +1,8 @@
 ---
 title: 設計師的Notion資料庫！數位端參考資料收集的一元化集中整理
-description: 
 date: 2021-05-10
 slug: notion-designerreferencedatabase1
+description: 我到現在都還是紙質筆記本和子彈筆記的big fan，但因為職業的特性，我還需要儲存很多線上的資料，這個要全部寫在筆記本裡實在很困難，尤其是很多關於軟體的教學都是又臭又長，不可能完全仰賴筆記本來辦到。
 image: Light-Blue-and-White-Bold-Simple-Presentation-1-930x620.png
 categories:
     - 筆記系統
@@ -17,9 +17,9 @@ tags:
 # 設計師的Notion資料庫！數位端參考資料收集的一元化集中整理
 
 
-![設計師的Notion資料庫！數位端參考資料收集的集中整理](https://peckyhsieh.com/wp-content/uploads/2021/05/Light-Blue-and-White-Bold-Simple-Presentation-1-930x620.png)
+![設計師的Notion資料庫！數位端參考資料收集的集中整理](Light-Blue-and-White-Bold-Simple-Presentation-1-930x620.png)
 
-[Notion](https://peckyhsieh.com/802/notion-designerreferencedatabase1/notion.so)現在已經是一個非常知名且較為成熟的筆記工具。
+[Notion](https://notion.so)現在已經是一個非常知名且較為成熟的筆記工具。
 
 我大約是在一兩年前在[電腦玩物](https://www.playpcesor.com/)部落格上接觸到這套筆記工具，一開始熟悉這個工具也花了好一陣子，因為他的邏輯在當時主流的筆記工具中算是新概念，目前也已經是我的數位端的主要筆記資料庫。
 
@@ -51,7 +51,7 @@ tags:
 
 我把這點也移植到我的數位端執行，一開始我使用的是一般分類法，將相關的資訊全部放到一個頁面底下，例如設計相關的資料我就開一個「設計」頁面來存放，音樂相關的我就另外開一個頁面來存放。
 
-![](https://peckyhsieh.com/wp-content/uploads/2021/05/%E7%85%A7%E7%89%87-2021%E5%B9%B45%E6%9C%887%E6%97%A5-%E4%B8%8B%E5%8D%8862607-1024x786.jpg)
+![](照片-2021年5月7日-下午62607-1024x786.jpg)
 
 後來我發現這樣雖然也是把所有資料都放進Noiton裡，但在每次存放資料時都還要思考我這個資料該屬於哪一類，還要在[web clipper](https://www.notion.so/web-clipper)和ios的分享功能裡面選頁面選半天，Notion搜尋也不是很快，對我快速瀏覽與儲存的工作流程會是一個很大的負擔。
 
@@ -59,7 +59,7 @@ tags:
 
 所以我後來又新增了一個Notion的database取名為My Links，使用Notion每一次創建一個page都會記錄時間的特性，讓我在手機或電腦端瀏覽資料時都可以快速儲存資料，也達到所有東西都可以在同一個地方找到，且知道是什麼時間儲存的結果。  
 
-![](https://peckyhsieh.com/wp-content/uploads/2021/05/%E7%85%A7%E7%89%87-2021%E5%B9%B45%E6%9C%887%E6%97%A5-%E4%B8%8B%E5%8D%8862539-1024x311.jpg)
+![](照片-2021年5月7日-下午62539-1024x311.jpg)
 
 另外也可以開一個multi select欄位，為每一項參考資料下標籤，這樣就可以快速找到分類下有哪些資料。也可以讓排序依照時間先後來排，會在最上面看到最新的或是最舊的資料。
 

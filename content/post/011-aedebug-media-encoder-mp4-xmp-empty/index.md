@@ -4,6 +4,7 @@ date: Mon, 16 Mar 2020 10:35:54 +0000
 draft: false
 image: aedebug-media-encoder-mp4-xmp-empty.png
 slug: aedebug-media-encoder-mp4-xmp-empty
+description: 今天使用AE製作動畫遇到一個小問題，  不知道為什麼輸出影片時雖然顯示完成但只有出現「xxx.mp4」「xxx.xmp」2個檔案
 categories:
     - AfterEffects技巧
 tags:
@@ -18,12 +19,12 @@ Bug
 今天使用AE製作動畫遇到一個小問題，  
 不知道為什麼輸出影片時雖然顯示完成但只有出現「xxx.mp4」「xxx.xmp」2個檔案
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-32.png)
+![](image-32.png)
 
 mp4檔本身還是空的，檔案大小 0 kb  
 完全不能播放
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-33.png)
+![](image-33.png)
 
 研究
 ==
@@ -47,7 +48,7 @@ mp4檔本身還是空的，檔案大小 0 kb
 
 回頭找Media Encoder裡面的轉存設定  
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-34.png)
+![](image-34.png)
 
 找到位元速率編碼設定為「VBR，二次」
 
@@ -55,5 +56,5 @@ mp4檔本身還是空的，檔案大小 0 kb
 
 問題就解決囉！
 
-![](https://peckyhsieh.com/wp-content/uploads/2020/03/image-35.png)
+![](image-35.png)
 
