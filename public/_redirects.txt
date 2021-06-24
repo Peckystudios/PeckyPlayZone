@@ -1,4 +1,5 @@
 # Redirects from what the browser requests to what we serve
+https://peckyhsieh.com/ https://peckystudios.com/ 301!
 https://peckyhsieh.com/912/designerworkwithwacomtonotpain/              https://peckystudios.com/p/designerworkwithwacomtonotpain/              301!
 https://peckyhsieh.com/907/characterdesign-guidebook-turnaround/         https://peckystudios.com/p/whycharacterdesignthreeviewturnaround/              301!
 https://peckyhsieh.com/802/notion-designerreferencedatabase1/         https://peckystudios.com/p/notion-designerreferencedatabase1/              301!
