@@ -1,0 +1,17 @@
+# Redirects from what the browser requests to what we serve
+https://peckyhsieh.com/912/designerworkwithwacomtonotpain/              https://peckystudios.com/p/designerworkwithwacomtonotpain/              301!
+https://peckyhsieh.com/907/characterdesign-guidebook-turnaround/         https://peckystudios.com/p/whycharacterdesignthreeviewturnaround/              301!
+https://peckyhsieh.com/802/notion-designerreferencedatabase1/         https://peckystudios.com/p/notion-designerreferencedatabase1/              301!
+https://peckyhsieh.com/758/howtofindartstyle/         https://peckystudios.com/p/howtofindartstyle/              301!
+https://peckyhsieh.com/720/pokemonss-review-ipanalysis/         https://peckystudios.com/p/pokemonss-review-ipanalysis/              301!
+https://peckyhsieh.com/701/aedebug-media-encoder-mp4-xmp-empty/         https://peckystudios.com/p/aedebug-media-encoder-mp4-xmp-empty/              301!
+https://peckystudios.com/p/notion-finance-tracker-workflow/         https://peckyhsieh.com/637/notion-finance-tracker-workflow/              301!
+https://peckystudios.com/p/molotow-dripstick-rollerball/         https://peckyhsieh.com/561/molotow-dripstick-rollerball/              301!
+https://peckyhsieh.com/594/12tipsofcharacterdesign/         https://peckystudios.com/p/12tipsofcharacterdesign/              301!
+https://peckyhsieh.com/473/dongyangzi-xingmo/         https://peckystudios.com/p/dongyangzi-xingmo/              301!
+https://peckyhsieh.com/265/pokemon-shield-diary-day1/         https://peckystudios.com/p/pokemon-shield-diary-day1/              301!
+https://peckyhsieh.com/140/2019tiff/         https://peckystudios.com/p/2019tiff/              301!
+https://peckyhsieh.com/111/animationmaster-dave-lowery/         https://peckystudios.com/p/animationmaster-dave-lowery/              301!
+https://peckyhsieh.com/69/aetips-loop/         https://peckystudios.com/p/aetips-loop/              301!
+https://peckyhsieh.com/49/aetips-qq/         https://peckystudios.com/p/aetips-qq/              301!
+https://peckyhsieh.com/37/aetips-compincomp/         https://peckystudios.com/p/aetips-compincomp/              301!
