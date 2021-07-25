@@ -3,7 +3,7 @@ title: 'Notion記帳/iOS手機搭配捷徑App一鍵記帳，輕鬆將記帳資�
 date: Fri, 13 Mar 2020 18:21:38 +0000
 draft: false
 image: notion-finance-tracker-workflow.png
-slug: notion-finance-tracker-workflow
+slug: notion-finance-tracker-workflow1
 description: 今年試了幾款以前有使用過的一秒記帳App，不知道為什麼今年的我就是會一直遺忘去使用他XD 可能已經很擅長直接無視手機的通知了吧！所以這次試著使用Notion來記帳！剛好我最近也有使用Notion自己設計自己的首頁（之後再來介紹），那就一起整合吧！
 tags: 
     - 個人成長
