@@ -1,3 +1,4 @@
+{{ partial "pop-up-subscribe.html" . }}
 <header class="article-header">
     {{- $image := partialCached "helper/image" (dict "Context" . "Type" "article") .RelPermalink "article" -}}
     {{ if $image.exists }}
