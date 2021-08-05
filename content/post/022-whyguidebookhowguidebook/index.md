@@ -1,16 +1,19 @@
 ---
+
+title: 角色IP授權為什麼會需要Guidebook？Guidebook是什麼？
+
 categories:
     - IP經營
-date: 2021-08-05T11:30:00Z
+date: 2021-08-05 
 description: 剛進IP產業的人可能還對Guidebook不熟悉，因為Guidebook是在商場上與廠商溝通使用的工具。
-image: 角色IP授權為什麼會需要Guidebook？Guidebook是什麼？.png
+image: whyguidebookhowguidebook.png
 slug: whyguidebookhowguidebook
+draft: false
 tags:
     - IP經營
     - 吉祥物
     - 角色設計
     - IP授權
-title: 角色IP授權為什麼會需要Guidebook？Guidebook是什麼？
 
 ---
 
