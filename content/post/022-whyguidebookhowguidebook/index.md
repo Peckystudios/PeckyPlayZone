@@ -10,7 +10,7 @@ tags:
     - 吉祥物
     - 角色設計
     - IP授權
-title: 
+title: 角色IP授權為什麼會需要Guidebook？Guidebook是什麼？
 
 ---
 
