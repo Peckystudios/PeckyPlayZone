@@ -4,7 +4,7 @@ title: 筆記系統如何影響我的人生
 
 categories:
     - 筆記系統
-date: 2021-08-06
+date: 2021-08-06 00:00:00 
 description: 以設計師、藝術家、插畫家等職業維生的人，不知道大家都是用什麼方式做筆記的呢？
 image: 筆記系統如何影響我的人生.png
 slug: notesystemandmylife
