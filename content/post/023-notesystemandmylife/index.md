@@ -21,7 +21,8 @@ tags:
 以設計師、藝術家、插畫家等職業維生的人，不知道大家都是用什麼方式做筆記的呢？
 
 我從高中就有隨身攜帶紙本筆記本隨時可以拿起來寫寫畫畫的習慣。
-![以前愛用的是臺灣的iPaper CFS筆記本](/Users/pecky/Library/Containers/co.noteplan.NotePlan3/Data/Library/Application Support/co.noteplan.NotePlan3/Notes/003-WorkingLog/Peckystudios/筆記系統如何影響我的人生_attachments/getImage.png)
+
+![以前愛用的是臺灣的iPaper CFS筆記本](getImage.png)
 
 
 後續隨著3C科技越來越蓬勃，出現了智慧型手機等等隨身裝置，我也因進入設計系而接觸到Apple電腦（不誇張，在那之前完全不知道這個東西！），慢慢的也有研究數位筆記工具，例如Evernote、Wonderlist、Things 等等。
@@ -30,7 +31,8 @@ tags:
 
 當時有追蹤[電腦玩物](https://www.playpcesor.com/)的BLOG，說真的非常感謝Esor的分享，我也才可以接觸到子彈筆記，這個系統對於我這個沒有紙本筆記會很痛苦的人來說真的太棒了！
 
-![子彈筆記思考術](/Users/pecky/Library/Containers/co.noteplan.NotePlan3/Data/Library/Application Support/co.noteplan.NotePlan3/Notes/003-WorkingLog/Peckystudios/筆記系統如何影響我的人生_attachments/Book_7fce494e-606f-43d0-89a2-51b698aa3369_600x.png)
+![子彈筆記思考術](Book_7fce494e-606f-43d0-89a2-51b698aa3369_600x.png)
+
 子彈筆記的官網連結： https://bulletjournal.com/
 
 我還記得當時子彈筆記的書都還沒有出，子彈筆記系統也只有最基礎的版本，沒有現在的群組，只有Index、Future Log、Monthly Log、Daily Log和每日轉移而已，但在每天的抄寫之下，默默的能幫助我去思考每一天的任務該如何執行，從哪個任務優先。
