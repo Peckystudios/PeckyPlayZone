@@ -22,7 +22,7 @@ tags:
 
 之前說要寫[冒險日誌](https://peckystudios.com/p/pokemon-shield-diary-day1/)，結果默默的就把他玩完了😂
 
-[![](https://d.ecimg.tw/items/DGBJBH1900AFJDK/000001_1578976007.jpg)](https://ibestfun.net/2egLl)
+[![](getImage.jpg)](https://ibestfun.net/2egLl)
 
 我買的是[寶可夢 盾](https://ibestfun.net/2egLl) ，單純是覺得幽靈系的道館主很可愛而選。  
 已經是超過20年的寶可夢粉，我甚至還記得第一次看寶可夢動畫是在我幼稚園的一個空間，老師投影第一集給大家看。
