@@ -138,4 +138,7 @@ markup:
             unsafe: true # Set this as true
     highlight:
         noClasses: false
-
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 1
