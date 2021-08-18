@@ -1,8 +1,8 @@
 ---
-title: 8個開始子彈筆記的心法
+title: 8個新手入門子彈筆記的心法
 date: 2021-06-02
 slug: 8tipsforbeginningbujo
-description: 剛開始使用子彈筆記一定有很多疑問，以下8點可以讓你有個基礎好開始喔！
+description: 新手入門使用子彈筆記一定有很多疑問，以下8點可以讓你有個基礎好開始喔！
 image: top-view-of-a-woman-about-to-make-notes-in-a-blank-NJV7N6Z.jpg
 categories:
     - 筆記系統
