@@ -15,7 +15,6 @@
 {{ define "main" }}
     {{ partial "article/article.html" . }}
     {{ partial "subscribe.html" . }}
-    
     {{ partial "article/components/related-contents" . }}
      
     {{ if or (not (isset .Params "comments")) (eq .Params.comments "true")}} 
