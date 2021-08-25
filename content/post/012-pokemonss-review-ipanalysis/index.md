@@ -255,3 +255,14 @@ https://www.imdb.com/title/tt0286244/
 變成上班族之後雖然很難再把每一款遊戲好好玩完了，但他在我心目中的地位不會改變，非常期待未來寶可夢能再給我們這些粉絲更多驚喜！
 
 
+
+---
+
+我們是 Peckystudios 。
+擅長設計吉祥物與角色相關的動靜態設計，這裡是我推廣創作的部落格，希望大家能藉由我的內容從創作中找到樂趣。
+
+如果您正在尋找設計師為您設計吉祥物，
+歡迎您到[服務項目](https://peckyhsieh.wixsite.com/peckystudiosservice)頁面瞭解相關資訊
+也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
+
+謝謝

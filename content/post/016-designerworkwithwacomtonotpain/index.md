@@ -30,3 +30,19 @@ tags:
 如果你跟我一樣已經手肘有壓迫到的問題，建議先請復健科醫師幫忙診斷，畫畫畫一段時間記得讓手休息，這樣我們才可以畫圖長長久久喔！ 
 
 參考資料： [肘隧道症候群 的五大保健絕招！ - REHAB FOR A BETTER LIFE](http://rehabforbetterlife.com/2018/04/5-best-therapeutic-tips-for-cubital-tunnel-syndrome/)
+
+---
+
+21/8/25 除了基礎復建之外，我用加水的保特瓶練了手臂，不知為何之後就不會不舒服了。可能我的肌肉量太少了～
+
+
+---
+
+我們是 Peckystudios 。
+擅長設計吉祥物與角色相關的動靜態設計，這裡是我推廣創作的部落格，希望大家能藉由我的內容從創作中找到樂趣。
+
+如果您正在尋找設計師為您設計吉祥物，
+歡迎您到[服務項目](https://peckyhsieh.wixsite.com/peckystudiosservice)頁面瞭解相關資訊
+也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
+
+謝謝

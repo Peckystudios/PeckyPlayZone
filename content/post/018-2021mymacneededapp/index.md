@@ -108,3 +108,16 @@ The Unarchiver 是一個免費解壓縮工具，支援大部分的壓縮檔（Zi
 ### The Binding of Isaac: Rebirth
 
 這也是一款 Roguelike 的遊戲，每一次開始遊玩你會扮演 Isaac 探索每一層的房間，你會使用眼淚來攻擊怪物，探索過程中你會隨機的獲得各種道具，運氣好的話會獲得幫助極大的道具，讓你可以玩到最後一關，所以每一次的遊玩體驗起來都是不同的故事，非常有趣。
+
+
+
+---
+
+我們是 Peckystudios 。
+擅長設計吉祥物與角色相關的動靜態設計，這裡是我推廣創作的部落格，希望大家能藉由我的內容從創作中找到樂趣。
+
+如果您正在尋找設計師為您設計吉祥物，
+歡迎您到[服務項目](https://peckyhsieh.wixsite.com/peckystudiosservice)頁面瞭解相關資訊
+也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
+
+謝謝

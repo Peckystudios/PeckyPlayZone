@@ -244,6 +244,14 @@ https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?lan
 
 > **角色設計師是一個創造生命的職業，如果不好好感受生命，又該如何創造生命呢？**
 
-如果你在找尋設計師幫您設計角色和吉祥物，歡迎到以下連結了解我的服務項目與洽詢喔！
 
-[點擊此了解詳細](https://mmm.page/peckystudios.main "點擊此了解詳細")
+---
+
+我們是 Peckystudios 。
+擅長設計吉祥物與角色相關的動靜態設計，這裡是我推廣創作的部落格，希望大家能藉由我的內容從創作中找到樂趣。
+
+如果您正在尋找設計師為您設計吉祥物，
+歡迎您到[服務項目](https://peckyhsieh.wixsite.com/peckystudiosservice)頁面瞭解相關資訊
+也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
+
+謝謝

@@ -257,3 +257,14 @@ Dave：這個story artist對喜劇的處理是又專業又好笑，應該是有�
 [http://vfxvoice.com/the-last-jedi-previs-postvis-and-techvis-explained/](http://vfxvoice.com/the-last-jedi-previs-postvis-and-techvis-explained/)  
 [Previs Vs. Animatic: What’s The Difference? – Animated Storyboards](https://animatedstoryboards.com/previs-vs-animatic-whats-difference/)
 
+
+---
+
+我們是 Peckystudios 。
+擅長設計吉祥物與角色相關的動靜態設計，這裡是我推廣創作的部落格，希望大家能藉由我的內容從創作中找到樂趣。
+
+如果您正在尋找設計師為您設計吉祥物，
+歡迎您到[服務項目](https://peckyhsieh.wixsite.com/peckystudiosservice)頁面瞭解相關資訊
+也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
+
+謝謝
