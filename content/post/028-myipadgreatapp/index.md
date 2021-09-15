@@ -76,8 +76,8 @@ iPad 對於影像創作者是一個很方便的工具，可以快速的將草圖
 既然有大螢幕那當然要有 Youtube ，我平常除了看會讓自己放鬆的節目之外，也常常看網路教學，大螢幕可以讓我看細節看得更清楚，尤其是寫程式或是軟體的教學都會有電腦畫面，用手機看就會很吃力。
 
 # 閱讀
-![image](230x0w.png)
-![image](230x0w - 46.6670.png)
+![image](230x0w.png) ![image](230x0w2.png)
+
 ## 樂天KOBO
 [Kobo.com 台灣 商店 - 電子書、有聲書、eReader 和 Reading 應用程式](https://www.kobo.com/tw/zh#)
 
