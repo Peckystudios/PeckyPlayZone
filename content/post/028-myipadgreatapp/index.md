@@ -26,6 +26,7 @@ iPad 對於影像創作者是一個很方便的工具，可以快速的將草圖
 
 
 # 繪圖設計
+
 ![image](D83C38E2-512A-4174-B387-F089CE162906.png)
 ## Procreate
 
@@ -59,6 +60,7 @@ iPad 對於影像創作者是一個很方便的工具，可以快速的將草圖
 [工作和家用雲端儲存空間 - Google 雲端硬碟](https://www.google.com.tw/intl/zh-TW/drive/)
 
 這個應該大家都知道是什麼，會在這邊介紹是因為雲端硬碟在我的平台協作扮演重要角色。我目前有 Mac mini 、 iphone12 mini 、 ipad 2018 3種裝置（Apple全家桶😂），之前在工作時就覺得一直看電腦很煩，也不想一直把電腦帶在身邊，好重！這也是我買 Mac Mini 的原因之一。但我偶爾出門或是在iPad上會臨時想要使用電腦裡的某個檔案，什麼時候會想要用實在難以預測，所以想出使用雲端硬碟直接備份我的工作資料夾（我有購買 2 TB），並且利用iOS和iPadOS的檔案app連結到雲端硬碟中，這樣我就可以在網路狀況OK的時候隨時取用電腦中最新的檔案，非常方便，且現在也有許多 App 可以讀取雲端硬碟的檔案，雖然不是每一個都可以，但對於我的使用場景已經足夠。
+
 ![image](3B00F7E2-E00D-46CF-9A39-31876D2F1967.png)
 ## Jump Desktop
 [Jump Desktop | Remote Desktop | iPad iPhone Android Mac Windows | Collaborative Screen Sharing](https://www.jumpdesktop.com/)
@@ -69,6 +71,7 @@ iPad 對於影像創作者是一個很方便的工具，可以快速的將草圖
 
 
 # 娛樂
+
 ![image](unnamed.png)
 ## Youtube
 [YouTube](https://www.youtube.com/)
@@ -82,12 +85,14 @@ iPad 對於影像創作者是一個很方便的工具，可以快速的將草圖
 [Kobo.com 台灣 商店 - 電子書、有聲書、eReader 和 Reading 應用程式](https://www.kobo.com/tw/zh#)
 
 KOBO 是樂天旗下的電子書商城品牌，也有推出自己的電子閱讀器，我自己已經在這邊買了幾十本書籍了，近幾年為了方便都是隨身直接使用在 iPhone和 iPad 上的KOBO app 閱讀，很方便，想看什麼書，馬上買馬上看，很棒。如果介意螢幕藍光的話，KOBO 的電子閱讀器也算不錯，可以購買來使用。
-![image](DBFC7F0C-7364-4F2A-89E8-1E8974D0CD42.png)
+
+![Play圖書](DBFC7F0C-7364-4F2A-89E8-1E8974D0CD42.png)
 ## Play圖書
 [Google Play 圖書](https://play.google.com/store/books?hl=zh_TW&gl=US)
 
 Play 圖書是 Google 商城內販售電子書的 App。這邊的好處是有時候書會有大折扣，所以幸運的話也會在這裡撈到好書，因為我也都用 iPhone、iPad 看，所以沒有什麼平臺衝突的問題，對我來說可以看到裡面的內容比較重要。
-![image](unnamed - 59.8200.png)
+
+![Hyread](hyread.png)
 ## Hyread 3
 [HyRead ebook 電子書店](https://ebook.hyread.com.tw/)
 
