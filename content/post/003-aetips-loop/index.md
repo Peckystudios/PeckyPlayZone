@@ -172,3 +172,7 @@ _**第一張和最後一張要可以接起來（新手可以記成第一張和�
 也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
 
 謝謝
+
+---
+
+如果喜歡我們的文章，歡迎到[我們的選物店](https://www.rakuten.com.tw/shop/peckystudio/)支持我們，讓我們更有動力創作喔！

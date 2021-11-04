@@ -101,3 +101,7 @@ render 是3D 動畫裡面會使用的詞彙，我們製作 3D 動畫要輸出動
 也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
 
 謝謝
+
+---
+
+如果喜歡我們的文章，歡迎到[我們的選物店](https://www.rakuten.com.tw/shop/peckystudio/)支持我們，讓我們更有動力創作喔！

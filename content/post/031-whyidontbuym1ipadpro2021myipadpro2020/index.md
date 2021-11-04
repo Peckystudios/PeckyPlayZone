@@ -4,14 +4,17 @@ title: 為什麼我沒有買 2021 M1 iPad Pro？ iPad Pro 2020 12.9寸 設計師
 categories:
     - 生活風格
     - 3C產品
-date: 2021-09-24 00:00:00
+date: 2021-11-04 00:00:00
 description: 想購入 iPad Pro 非常久了，尤其是 2018 年 Apple 更新了 iPad Pro 的外觀和超級好用的 Apple Pencil 2 ！
-image: whyidontbuym1ipadpro2021myipadpro2020.png
+image: A756CB67-8FCA-4495-85E7-8A8B910F09A7.png
 slug: whyidontbuym1ipadpro2021myipadpro2020
-draft: true
+draft: false
 tags:
-    - 身體健康
-    - 生活方式
+    - ipad
+    - iPad pro
+    - 設計
+    - 畫畫
+    - 購物
 
 ---
 # 為什麼我沒有買 2021 M1 iPad Pro？ iPad Pro 2020 12.9寸 設計師/創作者/學習愛好者心得
@@ -57,7 +60,7 @@ iPad上最方便直覺的 app 還是 Procreate ，以 A4 尺寸 300dpi 來說，
 
 # 入手後使用心得
 
-![image](/var/mobile/Containers/Data/Application/4E0E98D0-AE82-4A4F-AC58-B90D1944DDEA/Documents/Notes/003-WorkingLog/Peckystudios/為什麼我沒有買 M1 iPad Pro？ iPad Pro 2020 設計師創作者學習愛好者心得_attachments/7C7CEFAF-E6CE-42D2-8839-EAF45E00CB3E.png)
+![](/7C7CEFAF-E6CE-42D2-8839-EAF45E00CB3E.png)
 
 
 ## 學習
@@ -117,3 +120,7 @@ iPad上最方便直覺的 app 還是 Procreate ，以 A4 尺寸 300dpi 來說，
 也歡迎您寄信到 peckystudios@gmail.com 與我聯絡！
 
 謝謝
+
+---
+
+如果喜歡我們的文章，歡迎到[我們的選物店](https://www.rakuten.com.tw/shop/peckystudio/)支持我們，讓我們更有動力創作喔！
