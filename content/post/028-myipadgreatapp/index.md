@@ -94,7 +94,7 @@ Play 圖書是 Google 商城內販售電子書的 App。這邊的好處是有時
 
 ![Hyread](hyread.png)
 ## Hyread 3
-[HyRead ebook 電子書店](https://ebook.hyread.com.tw/)
+[HyRead ebook 電子書店](https://greenmall.info/2tdHJ?uid1=hyreadinblog)
 
 Hyread 裡面的書來源都是圖書館，只要用圖書館的會員登入，每個月可以免費借三本，相當優質！我自己到現在還有跑實體圖書館借書的習慣，現在隨著科技發達，有了更方便的借書管道，很推薦給大家，如果沒有預算購買書籍充實自己，可以應用這個資源。
 
