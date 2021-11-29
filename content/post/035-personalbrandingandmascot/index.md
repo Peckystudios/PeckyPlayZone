@@ -10,7 +10,7 @@ date: 2021-11-29 00:00:00
 description: 現在是自媒體時代，不管你是一般人、Youtuber、部落客還是IG經營者，每個人隨時都在生產內容，每個人都希望自己的內容可以佔領觀衆一定的注意力，所以現在建立個人品牌是一個熱門的話題，身為自媒體創作者的你可以用什麼方式來行銷自己呢？
 
 
-image: 49EE1575-5E1F-418D-BB5A-56784293DAB4.png
+image: 讓吉祥物來代表你！自媒體創作者行銷個人品牌的最佳方式.png
 slug: personalbrandingandmascot
 draft: false
 tags:
