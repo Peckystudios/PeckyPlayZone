@@ -1,4 +1,5 @@
 {{ define "body-class" }}
+    {{ partial "pop-up-subscribe.html" . }}
     {{ $TOCEnabled := default (default false .Site.Params.article.toc) .Params.toc }}
     {{- .Scratch.Set "hasTOC" (and (ge (len .TableOfContents) 100) $TOCEnabled) -}}
     article-page {{ if (.Scratch.Get "hasTOC") }}has-toc{{ end }}
