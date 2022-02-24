@@ -1,11 +1,10 @@
 +++
-categories = []
-date = ""
-description = ""
-draft = true
+categories = ["藝術創作", "吉祥物", "角色設計", "IP經營"]
+date = 2022-02-23T16:00:00Z
+description = "距離上次更新已經是好久以前的事情，這中間雖然因為工作而忙碌，但仍然有利用空檔來想這個 IP 該如何進行下去。"
 image = ""
-slug = ""
-tags = []
+slug = "creativedevlog003"
+tags = ["角色IP", "角色設計", "角色", "吉祥物設計", "吉祥物", "創作", " IP開發", "IP"]
 title = "Creative DevLog 003｜Heart Beater（暫）美術測試與內容形式測試"
 
 +++
@@ -13,9 +12,11 @@ title = "Creative DevLog 003｜Heart Beater（暫）美術測試與內容形式�
 
 目前最大的困難是我要如何在下班時間仍然有產出，每天擠出20分鐘加起來也是很可觀。花了很多時間研究如何用 iPad 也能產出高品質的圖，幸好最後時間沒有白費，成功研究出了比較適合自己的風格。
 
-!\[image\](/Users/pecky/Library/Containers/co.noteplan.NotePlan3/Data/Library/Application Support/co.noteplan.NotePlan3/Notes/003-WorkingLog/Peckystudios/Creative DevLog 002｜Heart Beater（暫）美術測試與內容形式測試_attachments/IMG_7591.png)
+![](/uploads/img_7591.png)
 
 這個是用 iPad 的 illustrator 繪製的，目前的做法是先在 Procreate 打草稿，再丟進 illustrator 裡面整理繪製。看起來好像很簡單，但現在看到的這個已經是我的第二個版本了，還不包含這個角色從我大學以來的演變史。
+
+![](/uploads/ebe2e39d-1893-4177-9767-ef8e3bd246ef.png)
 
 這就是我的第一版設計，其實當時沒有很滿意，但想說總是要先完成再說，於是就還是把他完成。我是覺得上面的第二版完整好看很多，在繪製流程中也比較順手。
 
