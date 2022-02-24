@@ -2,7 +2,7 @@
 categories = ["藝術創作", "吉祥物", "角色設計", "IP經營"]
 date = 2022-02-23T16:00:00Z
 description = "距離上次更新已經是好久以前的事情，這中間雖然因為工作而忙碌，但仍然有利用空檔來想這個 IP 該如何進行下去。"
-image = ""
+image = "/uploads/img_7591.png"
 slug = "creativedevlog003"
 tags = ["角色IP", "角色設計", "角色", "吉祥物設計", "吉祥物", "創作", " IP開發", "IP"]
 title = "Creative DevLog 003｜Heart Beater（暫）美術測試與內容形式測試"
