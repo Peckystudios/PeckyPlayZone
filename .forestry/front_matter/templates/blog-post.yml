@@ -23,3 +23,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/post/040-creatorsslipboxnotetaking/創作者的我如何使用卡片盒筆記法.md
