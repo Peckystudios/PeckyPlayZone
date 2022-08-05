@@ -5,9 +5,7 @@ categories:
     - illustrator
 
 date: 2022-08-05 22:20:00
-description: 1. 在Photoshop或是Procreate等等其他繪圖軟體繪製的圖片，想放入illustrator（AI）排版
-2. 希望在置入圖檔後可以編輯原始檔，在illustrator裡面可以自動更新
-3. 希望把圖檔嵌入illustrator的ai檔裡面，把檔案傳給別人時裡面包含圖檔
+description: 1. 在Photoshop或是Procreate等等其他繪圖軟體繪製的圖片，想放入illustrator（AI）排版 2. 希望在置入圖檔後可以編輯原始檔，在illustrator裡面可以自動更新 3. 希望把圖檔嵌入illustrator的ai檔裡面，把檔案傳給別人時裡面包含圖檔
 
 
 image: 如何置入圖檔（png、jpg、psd檔）到illustrator？置入、連結、嵌入.png
