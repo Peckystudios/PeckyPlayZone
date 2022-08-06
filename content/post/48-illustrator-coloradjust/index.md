@@ -3,9 +3,10 @@
 title: 如何用illustrator調整顏色？調整色彩平衡
 categories:
     - illustrator
+
 date: 2022-08-06 00:00:00
 Description: 1. 在畫好向量圖之後，客戶突然要改變整體的顏色 2. 多個物件想一起改變色調
-: 如何用illustrator調整顏色？調整色彩平衡.png
+image: 如何用illustrator調整顏色？調整色彩平衡.png
 slug: illustrator-coloradjust
 draft: false
 tags:
