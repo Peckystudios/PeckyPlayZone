@@ -21,7 +21,9 @@ menu:
 
 ## 我是Pecky
 
-Visual Artist/Motion Designer/Character Designer  
+視覺藝術家/吉祥物設計師
+
+Visual Artist/Mascot Designer  
 
 
 生活中唯獨畫畫不想被束縛，特別將它獨立出來，樂於享受它的純粹。從來不是我選媒材，而是媒材選我，媒材自己來到我的生活週遭，我只要順水推舟將生活中所有媒材的個性發揮出來即可，看著身邊的媒材放出自己的光芒是很開心的事情。
