@@ -3,7 +3,7 @@
 title: 如何在illustrator進行多頁面設計？新增工作區域
 categories:
     - illustrator
-date: 2022-08-06 00:00:00
+date: 2022-08-06 00:01:00
 Description: 在設計專案的時候，一次可能設計好幾種圖像或圖標，如何能夠在同個檔案裡面包含多個圖呢？
 image: 如何在illustrator進行多頁面設計？新增工作區域.png
 slug: illustrator-addworkarea
