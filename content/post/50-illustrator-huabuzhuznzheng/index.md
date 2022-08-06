@@ -1,6 +1,6 @@
 ---
 
-title: 如何將不小心旋轉的畫布轉正？
+title: 如何將illustrator不小心旋轉的畫布轉正？
 categories:
     - illustrator
 date: 2022-08-06 00:03:00
