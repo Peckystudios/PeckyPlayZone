@@ -5,7 +5,7 @@ categories:
     - illustrator
 date: 2022-08-11 00:00:00
 Description: 我想在 illustrator 裡面畫出方形/正方形，請問要怎麼做呢？
-image: 如何在illustrator畫方形/正方形？矩形工具.png
+image: 如何在illustrator畫方形正方形？矩形工具.png
 slug: illustrator-square
 draft: false
 tags:

@@ -5,7 +5,7 @@ categories:
     - illustrator
 date: 2022-08-11 00:00:00
 Description: 我想在 illustrator 裡面畫出正圓形和橢圓形，請問要怎麼做呢？
-image: 如何在illustrator畫圓形/橢圓？橢圓形工具.png
+image: 如何在illustrator畫圓形橢圓？橢圓形工具.png
 slug: illustrator-circle
 draft: false
 tags:
