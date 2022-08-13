@@ -51,7 +51,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: giscus
 
         utterances:
             repo:
@@ -69,6 +69,20 @@ params:
             repo:
             clientId:
             clientSecret:
+
+        giscus:
+            repo: Peckystudios/website_comments
+            repoID: R_kgDOH0AyOQ
+            category: Announcements
+            categoryID: DIC_kwDOH0AyOc4CQzSB
+            mapping: pathname
+            strict: 0
+            lightTheme:
+            darkTheme:
+            reactionsEnabled: 1
+            emitMetadata: 0
+            inputPosition: bottom
+            lang: zh-TW
 
     widgets:
         enabled:
