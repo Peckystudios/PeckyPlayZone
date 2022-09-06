@@ -26,7 +26,6 @@ fields:
   name: tags
   label: tags
 pages:
-- content/post/10.md
 - content/post/42-book-drawnotwell/不准畫太好-心得-解決繪圖中遇見的障礙.md
 - content/post/43-howtodesignemotion/角色設計的表情表演該如何設計.md
 - content/post/44-whatismascot/吉祥物是什麼-從哪裡來.md
