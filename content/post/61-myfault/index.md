@@ -7,7 +7,7 @@ date: 2022-09-27 00:00:00
 Description: 我曾經犯錯過，我也知道我不是一個很完美的人，今天想寫這一篇也是希望藉由這篇文章再一次面對自己。
 image: 我曾經做過的錯事.png
 slug: myfault
-draft: false
+draft: true
 tags:
     - 犯錯
     - 過錯
