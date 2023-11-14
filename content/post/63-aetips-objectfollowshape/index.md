@@ -4,7 +4,7 @@ title: 【AE小技巧】如何讓物體跟著繪製的shape路徑曲線移動？
 categories:
     - AfterEffects技巧
     
-date: 2023-11-14 00:00:00
+date: 2023-11-13 00:00:00
 Description: 如果你今天有設計一條道路，你想把車子沿著這個道路移動前進，要怎麼做呢？
 image: 如何讓物體跟著繪製的shape路徑曲線移動.png
 slug: aetips-objectfollowshape
